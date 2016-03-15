@@ -35,7 +35,7 @@ public class Prime {
 		
 		System.out.println("\ntotal program run time  :"+total);
 		 total = System.nanoTime()-start;
-			System.out.println("total execution time" +total);
+			System.out.println("" +total);
 	}
 
 }
